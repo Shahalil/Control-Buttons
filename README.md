@@ -11,3 +11,8 @@ Initially, the web page contains a user interface with five main buttons for the
 
 There's also a sixth button that redirects to another web page displaying the last button that was clicked and added to the database:
 
+
+![لقطة الشاشة 2024-08-09 185233](https://github.com/user-attachments/assets/86bbbc59-4f5a-45e6-a5fe-36b24b57aaf2)
+![لقطة الشاشة 2024-08-09 185120](https://github.com/user-attachments/assets/4da5fbcc-0e29-41da-92a6-9c13ea183316)
+
+
